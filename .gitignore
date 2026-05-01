@@ -1,0 +1,17 @@
+# 探索性爬蟲腳本（不納入版本控制）
+shared_layer_scrapers/
+smart_commute_scrapers/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 環境設定（含明文密碼與 API Key，不推）
+.env
+*.env
+
+# 系統檔
+.DS_Store
